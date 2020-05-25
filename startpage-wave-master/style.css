@@ -64,12 +64,23 @@ a, a:visited, a:hover {
 	
 }
 
+/* USE FOLLOWING FOR WINDOWS */
+
 .box .box-container .link {
+	font-family: 'test';
+	font-size: 28px;
+	padding: 0px 0 0 15px;
+	text-align: left;
+}
+
+/* USE FOLLOWING FOR LINUX */
+
+/* .box .box-container .link {
 	font-family: 'test';
 	font-size: 28px;
 	padding: 20px 0 0 15px;
 	text-align: left;
-}
+} */
 
 /* ------------- TIME STYLING ------------- */ 
 
